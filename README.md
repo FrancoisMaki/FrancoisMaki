@@ -19,7 +19,7 @@ Driven by a passion for learning, I constantly seek to create new, innovative, a
 
 - Outside tech, 💜🎮 playing videogames, 🎵 listening to music, and 🏋🏻‍♂️ excercise myslef.
 
-- 📫 Reach out to me at: <a href="francois_993_bcn@gmail.com">francois_993_bcn@gmail.com</a>
+- 📫 Reach out to me at: <a href="francoisc09r@gmail.com">francoisc09r@gmail.com</a>
 
 ## My Skills
 
