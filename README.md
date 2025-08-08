@@ -1,8 +1,7 @@
 
 <h1 align="center"><b>Hi, I'm Francois Coronel </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<img align="right" width=300px alt="Unicorn" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExN25oMjVhaTZvZGMzcjNkaG1zcHFzczJmdDN6a2hqNTBnZmNzMXo1cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/6KirhLJyR7oMcwgJQk/giphy.webp" />
-
+<img align="right" width=300px alt="Unicorn" src="https://camo.githubusercontent.com/eb49b01167d81d57724b57e45251c6558b1bfda447f0e299da2979e2dbf667db/68747470733a2f2f63646e332e656d6f6a692e67672f656d6f6a69732f313236312d6861636b6572626f6e676f6361742e676966" />
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
 I'm a computer science student, currently halfway through my degree. I'm expanding my knowledge in both front-end and back-end development.
