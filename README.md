@@ -9,15 +9,14 @@ I'm a computer science student, currently halfway through my degree. I'm expandi
 Driven by a passion for learning, I constantly seek to create new, innovative, and impactful solutions that push the boundaries of creativity and productivity
 
 - 🌱 I’m currently learning ...
-  - Spring
+  - Spring Boot
   - Node.js
+  - Astro
   - React
-
-- 🤝 I’m looking forward to collaborate on open source projects.
-
+ 
 - ✔ Ask me about anything, I am happy to help
 
-- Outside tech, 💜🎮 playing videogames, 🎵 listening to music, and 🏋🏻‍♂️ excercise myslef.
+- Outside tech, 💜🎮 playing videogames, 🎵 listening to music, and 🏋🏻‍♂️ workout.
 
 - 📫 Reach out to me at: <a href="francoisc09r@gmail.com">francoisc09r@gmail.com</a>
 
@@ -35,8 +34,9 @@ Driven by a passion for learning, I constantly seek to create new, innovative, a
 <h4> Other Tools and Technologies </h4>
 <span>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
   <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
+  <img src="https://img.shields.io/badge/Astro-20232A?style=for-the-badge&logo=Astro&logoColor=BC52EE">
   <img src="https://shields.io/badge/react-black?logo=react&style=for-the-badge">
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white">
